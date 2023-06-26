@@ -1,4 +1,4 @@
-// helpers.js
+
 
 class BoardMember {
     constructor(name, homeState, training) {
